@@ -2,22 +2,36 @@
 
 # Sami El Akkad · 萨米
 
-### Applied AI / Forward-Deployed Engineer · Founder · AI Master's @ Tsinghua
+### Applied AI / Forward-Deployed Engineer · AI Master's @ Tsinghua · 清华
+
+## AI + Computer Vision · LLMs · Optimization
 
 **I build ML systems from scratch, ship them end-to-end, and measure whether they actually work.**
 
 [![Location](https://img.shields.io/badge/Based_in-Shenzhen,_China-2E86AB)](#)
 [![Email](https://img.shields.io/badge/Email-sam25@mails.tsinghua.edu.cn-C8102E)](mailto:sam25@mails.tsinghua.edu.cn)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-samielakkad-0A66C2)](https://www.linkedin.com/in/samielakkad)
-[![Languages](https://img.shields.io/badge/Languages-AR_·_FR_·_EN_·_中文_·_Tamazight-A3BE8C)](#)
+[![Languages](https://img.shields.io/badge/Languages-5_spoken-A3BE8C)](#)
 
 </div>
 
 ---
 
-I'm a builder who ships. I trained as a computer scientist ([**NWPU · 西北工业大学**](https://en.nwpu.edu.cn/), President's Scholarship), I'm doing my **MSc in Artificial Intelligence at [Tsinghua · 清华大学 SIGS](https://www.sigs.tsinghua.edu.cn/)**, and along the way I've built object detectors from scratch, evaluated frontier LLMs at Baidu, and solo-shipped a live marketplace serving real users in Morocco.
+### 🏅 Highlights
 
-My edge is the full loop in one person: **build the model → ship the product → prove it works.** That, plus five languages and a founder's bias for action, is what makes me a strong *Applied AI / Forward-Deployed* engineer.
+- 🎓 **AI MSc @ [Tsinghua SIGS · 清华大学](https://www.sigs.tsinghua.edu.cn/)** — GPA 3.9 / 4.0 · full CSC scholarship
+- 🏅 **President's Scholarship** @ [NWPU · 西北工业大学](https://en.nwpu.edu.cn/) — full award (CS / AI), final grade 87%
+- 🥉 **Baidu · 百度 ERNIE Hackathon 2025 — 3rd Prize** (top 3 of 23 finalists, 170+ submissions)
+- 🏆 **Winner — Tsinghua AIID Yearly Competition** (NetDragon · 网龙 partner track)
+- 🚗 **Built a YOLOv8 detector from scratch** for autonomous-driving perception @ [Neusoft · 东软集团](https://www.neusoft.com/)
+- 🚀 **Shipped a live LLM product end-to-end, solo** — [jak.ma](https://jak.ma): multi-provider routing, tool-calling agents, Darija NLP
+- 🌍 **5 languages** — Arabic · Tamazight · French · English (IELTS 7.5) · 中文 (HSK 4, 90/100)
+
+---
+
+I'm an engineer who ships. I trained as a computer scientist at [**NWPU · 西北工业大学**](https://en.nwpu.edu.cn/) (President's Scholarship), I'm doing my **MSc in Artificial Intelligence at [Tsinghua · 清华大学 SIGS](https://www.sigs.tsinghua.edu.cn/)**, and along the way I've built object detectors from scratch, evaluated frontier LLMs at [Baidu · 百度](https://www.baidu.com/), and single-handedly shipped a live, LLM-powered product serving real users.
+
+My edge is the **full loop in one person: build the model → ship the product → prove it works.** That, plus five languages and a bias for shipping, is what makes me a strong **Applied AI / Forward-Deployed** engineer.
 
 ## 🧭 What I do
 
@@ -50,7 +64,7 @@ Work built **for companies and institutions** — each links to the organisation
 - 🧪 **[jak-ma-eval-suite](https://github.com/Samielakkad/jak-ma-eval-suite)** — evaluation methodology for a two-pass grounded-retrieval system in production.
 - 🧰 **[pm-frameworks-darija](https://github.com/Samielakkad/pm-frameworks-darija)** — reusable PM frameworks for shipping LLM products in low-resource markets.
 
-**Founder / Full-stack AI**
+**Shipped products · Full-stack AI**
 - ⚙️ **[jak-ma-engine](https://github.com/Samielakkad/jak-ma-engine)** — engineering mirror of jak.ma: multi-provider LLM routing, tool-calling agent, Arabizi classifier.
 - 🏫 **[Sovereign School OS](https://github.com/Samielakkad/SSO-final)** — 50+ React/TS components, browser-only, FERPA-compliant by construction; AIID competition winner.
 - ⚖️ **[mirath-morocco](https://github.com/Samielakkad/mirath-morocco)** — Moroccan inheritance-law solver (Faraid, Asaba, Awl, Radd) with parcel-level land valuation.
@@ -72,7 +86,7 @@ Work built **for companies and institutions** — each links to the organisation
 
 ---
 
-**Applied AI · Forward-Deployed · Founder** — building, shipping, and measuring AI systems.
+**Applied AI · Forward-Deployed · Ships end-to-end** — building, shipping, and measuring AI systems.
 
 📫 [sam25@mails.tsinghua.edu.cn](mailto:sam25@mails.tsinghua.edu.cn) · [LinkedIn](https://www.linkedin.com/in/samielakkad) · [jak.ma](https://jak.ma)
 
