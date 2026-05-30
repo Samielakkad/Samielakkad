@@ -47,10 +47,10 @@ Work built **for companies and institutions** — each links to the organisation
 
 | Project | Built for | What it is |
 |---|---|---|
-| **[YOLOv8 from scratch](https://github.com/Samielakkad/yolov8-from-scratch-pytorch)** | [Neusoft · 东软集团](https://www.neusoft.com/) | Autonomous-driving road-object detector, hand-built in PyTorch — CV internship, 2024 |
-| **[ERNIE evaluation notes](https://github.com/Samielakkad/ernie-evaluation-notes)** | [Baidu · 百度](https://www.baidu.com/) | Model-evaluation methodology from the ERNIE (文心) Mentor Program — 2025 |
-| **[Sovereign School OS](https://github.com/Samielakkad/sovereign-school-os)** | [NetDragon · 网龙](https://www.netdragon.com/) × [Tsinghua · 清华大学](https://www.sigs.tsinghua.edu.cn/) | AI-native K-12 platform — **winner, Tsinghua AIID Yearly Competition** (NetDragon partner track) |
-| **[ADCMOplus](https://github.com/Samielakkad/ADCMOplus)** | [NWPU · 西北工业大学](https://en.nwpu.edu.cn/) | Graduation research — online-learning evolutionary algorithm for dynamic constrained optimization |
+| **[YOLOv8 from scratch](https://github.com/Samielakkad/ai-computer-vision-yolov8-neusoft)** | [Neusoft · 东软集团](https://www.neusoft.com/) | Autonomous-driving road-object detector, hand-built in PyTorch — CV internship, 2024 |
+| **[ERNIE evaluation notes](https://github.com/Samielakkad/ai-llm-evaluation-baidu-ernie)** | [Baidu · 百度](https://www.baidu.com/) | Model-evaluation methodology from the ERNIE (文心) Mentor Program — 2025 |
+| **[Sovereign School OS](https://github.com/Samielakkad/ai-edtech-sovereign-school-os)** | [NetDragon · 网龙](https://www.netdragon.com/) × [Tsinghua · 清华大学](https://www.sigs.tsinghua.edu.cn/) | AI-native K-12 platform — **winner, Tsinghua AIID Yearly Competition** (NetDragon partner track) |
+| **[ADCMOplus](https://github.com/Samielakkad/ai-optimization-adcmoplus-nwpu)** | [NWPU · 西北工业大学](https://en.nwpu.edu.cn/) | Graduation research — online-learning evolutionary algorithm for dynamic constrained optimization |
 
 ## 🗂️ Explore my work — by AI domain
 
@@ -59,31 +59,31 @@ Work built **for companies and institutions** — each links to the organisation
 ---
 
 ### 🤖 AI + Computer Vision
-- **[yolov8-from-scratch-pytorch](https://github.com/Samielakkad/yolov8-from-scratch-pytorch)** — full YOLOv8 (CSPDarknet + PANet + DFL head) built, trained, evaluated & debugged end-to-end. *Autonomous-driving perception @ Neusoft 东软集团.*
+- **[yolov8-from-scratch-pytorch](https://github.com/Samielakkad/ai-computer-vision-yolov8-neusoft)** — full YOLOv8 (CSPDarknet + PANet + DFL head) built, trained, evaluated & debugged end-to-end. *Autonomous-driving perception @ Neusoft 东软集团.*
 
 ### 🧠 AI + LLMs · Agents · Evaluation
-- **[jak-ma-engine](https://github.com/Samielakkad/jak-ma-engine)** — multi-provider LLM routing + tool-calling agent powering a live product.
-- **[jak-ma-eval-suite](https://github.com/Samielakkad/jak-ma-eval-suite)** — evaluation methodology for a two-pass grounded-retrieval system.
-- **[ernie-evaluation-notes](https://github.com/Samielakkad/ernie-evaluation-notes)** — 5-dimension LLM evaluation rubric. *Baidu 百度 ERNIE Mentor Program.*
+- **[jak-ma-engine](https://github.com/Samielakkad/ai-llm-agents-jakma-engine)** — multi-provider LLM routing + tool-calling agent powering a live product.
+- **[jak-ma-eval-suite](https://github.com/Samielakkad/ai-llm-evaluation-jakma)** — evaluation methodology for a two-pass grounded-retrieval system.
+- **[ernie-evaluation-notes](https://github.com/Samielakkad/ai-llm-evaluation-baidu-ernie)** — 5-dimension LLM evaluation rubric. *Baidu 百度 ERNIE Mentor Program.*
 
 ### 🗣️ AI + NLP
-- **[jakma-darija-classifier](https://github.com/Samielakkad/jakma-darija-classifier)** — production Darija (Moroccan Arabic) intent + city classifier, Hugging Face–ready.
-- **[darija-nlp-resources](https://github.com/Samielakkad/darija-nlp-resources)** — curated corpora, papers & tools for low-resource Darija NLP.
+- **[jakma-darija-classifier](https://github.com/Samielakkad/ai-nlp-darija-classifier)** — production Darija (Moroccan Arabic) intent + city classifier, Hugging Face–ready.
+- **[darija-nlp-resources](https://github.com/Samielakkad/ai-nlp-darija-resources)** — curated corpora, papers & tools for low-resource Darija NLP.
 
 ### 🧬 AI + Optimization
-- **[ADCMOplus](https://github.com/Samielakkad/ADCMOplus)** — novel online-learning evolutionary algorithm with a proven regret bound; beat three SOTA baselines. *Graduation research @ NWPU 西北工业大学.*
+- **[ADCMOplus](https://github.com/Samielakkad/ai-optimization-adcmoplus-nwpu)** — novel online-learning evolutionary algorithm with a proven regret bound; beat three SOTA baselines. *Graduation research @ NWPU 西北工业大学.*
 
 ### 🎓 AI + EdTech
-- **[Sovereign School OS](https://github.com/Samielakkad/sovereign-school-os)** — AI-native K-12 platform, 50+ React/TS components, FERPA-compliant by construction. *AIID winner — NetDragon 网龙.*
-- **[hsk-master-ai](https://github.com/Samielakkad/hsk-master-ai)** — AI Mandarin-exam tutor built around the retake (writing diagnostics, prosody scoring).
-- **[tsinghua-aiid-2025-team-docs](https://github.com/Samielakkad/tsinghua-aiid-2025-team-docs)** — interactive docs site; *Best Documentation Award, Tsinghua AIID Hackathon 2025.*
+- **[Sovereign School OS](https://github.com/Samielakkad/ai-edtech-sovereign-school-os)** — AI-native K-12 platform, 50+ React/TS components, FERPA-compliant by construction. *AIID winner — NetDragon 网龙.*
+- **[hsk-master-ai](https://github.com/Samielakkad/ai-edtech-hsk-master)** — AI Mandarin-exam tutor built around the retake (writing diagnostics, prosody scoring).
+- **[tsinghua-aiid-2025-team-docs](https://github.com/Samielakkad/ai-edtech-aiid-team-docs)** — interactive docs site; *Best Documentation Award, Tsinghua AIID Hackathon 2025.*
 
 ### ⚖️ AI + LegalTech
-- **[mirath-morocco](https://github.com/Samielakkad/mirath-morocco)** — Moroccan inheritance-law solver (Faraid, Asaba, Awl, Radd) with parcel-level land valuation.
+- **[mirath-morocco](https://github.com/Samielakkad/ai-legaltech-mirath-morocco)** — Moroccan inheritance-law solver (Faraid, Asaba, Awl, Radd) with parcel-level land valuation.
 
 ### 📦 AI + Product
-- **[jak-ma-case-study](https://github.com/Samielakkad/jak-ma-case-study)** — production case study: verifier-gated retrieval shipped into a live marketplace.
-- **[pm-frameworks-darija](https://github.com/Samielakkad/pm-frameworks-darija)** — reusable PM frameworks for shipping LLM products in low-resource markets.
+- **[jak-ma-case-study](https://github.com/Samielakkad/ai-product-jakma-case-study)** — production case study: verifier-gated retrieval shipped into a live marketplace.
+- **[pm-frameworks-darija](https://github.com/Samielakkad/ai-product-management-frameworks)** — reusable PM frameworks for shipping LLM products in low-resource markets.
 
 ## 🛠️ Tech
 
