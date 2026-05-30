@@ -52,22 +52,38 @@ Work built **for companies and institutions** — each links to the organisation
 | **[Sovereign School OS](https://github.com/Samielakkad/SSO-final)** | [NetDragon · 网龙](https://www.netdragon.com/) × [Tsinghua · 清华大学](https://www.sigs.tsinghua.edu.cn/) | AI-native K-12 platform — **winner, Tsinghua AIID Yearly Competition** (NetDragon partner track) |
 | **[ADCMOplus](https://github.com/Samielakkad/ADCMOplus)** | [NWPU · 西北工业大学](https://en.nwpu.edu.cn/) | Graduation research — online-learning evolutionary algorithm for dynamic constrained optimization |
 
-## 🚀 Featured open-source
+## 🗂️ Explore my work — by AI domain
 
-**Applied AI · Computer Vision · ML**
-- 🚗 **[yolov8-from-scratch-pytorch](https://github.com/Samielakkad/yolov8-from-scratch-pytorch)** — full YOLOv8 (CSPDarknet + PANet + DFL head) built, trained, evaluated and debugged end-to-end.
-- 🧬 **[ADCMOplus](https://github.com/Samielakkad/ADCMOplus)** — a novel online-learning evolutionary algorithm with a proven regret bound; beat three SOTA baselines on the FDA suite.
-- 🤗 **[jakma-darija-classifier](https://github.com/Samielakkad/jakma-darija-classifier)** — production Darija (Moroccan Arabic) intent + city classifier, Hugging Face–ready.
+🤖 Computer Vision · 🧠 LLMs & Agents · 🗣️ NLP · 🧬 Optimization · 🎓 EdTech · ⚖️ LegalTech · 📦 Product
 
-**AI Product & Evaluation**
-- 📏 **[ernie-evaluation-notes](https://github.com/Samielakkad/ernie-evaluation-notes)** — 5-dimension LLM evaluation rubric from the Baidu ERNIE Mentor Program.
-- 🧪 **[jak-ma-eval-suite](https://github.com/Samielakkad/jak-ma-eval-suite)** — evaluation methodology for a two-pass grounded-retrieval system in production.
-- 🧰 **[pm-frameworks-darija](https://github.com/Samielakkad/pm-frameworks-darija)** — reusable PM frameworks for shipping LLM products in low-resource markets.
+---
 
-**Shipped products · Full-stack AI**
-- ⚙️ **[jak-ma-engine](https://github.com/Samielakkad/jak-ma-engine)** — engineering mirror of jak.ma: multi-provider LLM routing, tool-calling agent, Arabizi classifier.
-- 🏫 **[Sovereign School OS](https://github.com/Samielakkad/SSO-final)** — 50+ React/TS components, browser-only, FERPA-compliant by construction; AIID competition winner.
-- ⚖️ **[mirath-morocco](https://github.com/Samielakkad/mirath-morocco)** — Moroccan inheritance-law solver (Faraid, Asaba, Awl, Radd) with parcel-level land valuation.
+### 🤖 AI + Computer Vision
+- **[yolov8-from-scratch-pytorch](https://github.com/Samielakkad/yolov8-from-scratch-pytorch)** — full YOLOv8 (CSPDarknet + PANet + DFL head) built, trained, evaluated & debugged end-to-end. *Autonomous-driving perception @ Neusoft 东软集团.*
+
+### 🧠 AI + LLMs · Agents · Evaluation
+- **[jak-ma-engine](https://github.com/Samielakkad/jak-ma-engine)** — multi-provider LLM routing + tool-calling agent powering a live product.
+- **[jak-ma-eval-suite](https://github.com/Samielakkad/jak-ma-eval-suite)** — evaluation methodology for a two-pass grounded-retrieval system.
+- **[ernie-evaluation-notes](https://github.com/Samielakkad/ernie-evaluation-notes)** — 5-dimension LLM evaluation rubric. *Baidu 百度 ERNIE Mentor Program.*
+
+### 🗣️ AI + NLP
+- **[jakma-darija-classifier](https://github.com/Samielakkad/jakma-darija-classifier)** — production Darija (Moroccan Arabic) intent + city classifier, Hugging Face–ready.
+- **[darija-nlp-resources](https://github.com/Samielakkad/darija-nlp-resources)** — curated corpora, papers & tools for low-resource Darija NLP.
+
+### 🧬 AI + Optimization
+- **[ADCMOplus](https://github.com/Samielakkad/ADCMOplus)** — novel online-learning evolutionary algorithm with a proven regret bound; beat three SOTA baselines. *Graduation research @ NWPU 西北工业大学.*
+
+### 🎓 AI + EdTech
+- **[Sovereign School OS](https://github.com/Samielakkad/SSO-final)** — AI-native K-12 platform, 50+ React/TS components, FERPA-compliant by construction. *AIID winner — NetDragon 网龙.*
+- **[hsk-master-ai](https://github.com/Samielakkad/hsk-master-ai)** — AI Mandarin-exam tutor built around the retake (writing diagnostics, prosody scoring).
+- **[tsinghua-aiid-2025-team-docs](https://github.com/Samielakkad/tsinghua-aiid-2025-team-docs)** — interactive docs site; *Best Documentation Award, Tsinghua AIID Hackathon 2025.*
+
+### ⚖️ AI + LegalTech
+- **[mirath-morocco](https://github.com/Samielakkad/mirath-morocco)** — Moroccan inheritance-law solver (Faraid, Asaba, Awl, Radd) with parcel-level land valuation.
+
+### 📦 AI + Product
+- **[jak-ma-case-study](https://github.com/Samielakkad/jak-ma-case-study)** — production case study: verifier-gated retrieval shipped into a live marketplace.
+- **[pm-frameworks-darija](https://github.com/Samielakkad/pm-frameworks-darija)** — reusable PM frameworks for shipping LLM products in low-resource markets.
 
 ## 🛠️ Tech
 
