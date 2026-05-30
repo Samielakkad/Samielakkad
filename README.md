@@ -2,7 +2,7 @@
 
 # Sami El Akkad · 萨米
 
-### Applied AI / Forward-Deployed Engineer · AI Master's @ Tsinghua · 清华
+### Applied AI Engineer & Product · AI Master's @ Tsinghua · 清华
 
 ## AI + Computer Vision · LLMs · Optimization
 
@@ -31,7 +31,7 @@
 
 I'm an engineer who ships. I trained as a computer scientist at [**NWPU · 西北工业大学**](https://en.nwpu.edu.cn/) (President's Scholarship), I'm doing my **MSc in Artificial Intelligence at [Tsinghua · 清华大学 SIGS](https://www.sigs.tsinghua.edu.cn/)**, and along the way I've built object detectors from scratch, evaluated frontier LLMs at [Baidu · 百度](https://www.baidu.com/), and single-handedly shipped a live, LLM-powered product serving real users.
 
-My edge is the **full loop in one person: build the model → ship the product → prove it works.** That, plus five languages and a bias for shipping, is what makes me a strong **Applied AI / Forward-Deployed** engineer.
+My edge is the **full loop in one person: build the model → ship the product → prove it works.** That range — across **applied-AI engineering, forward-deployed delivery, and product** — plus five languages and a bias for shipping, is what makes me hard to box into a single lane (and easy to plug into many).
 
 ## 🧭 What I do
 
@@ -102,7 +102,7 @@ Work built **for companies and institutions** — each links to the organisation
 
 ---
 
-**Applied AI · Forward-Deployed · Ships end-to-end** — building, shipping, and measuring AI systems.
+**Applied AI · Engineering & Product · Ships end-to-end** — building, shipping, and measuring AI systems.
 
 📫 [sam25@mails.tsinghua.edu.cn](mailto:sam25@mails.tsinghua.edu.cn) · [LinkedIn](https://www.linkedin.com/in/samielakkad) · [jak.ma](https://jak.ma)
 
