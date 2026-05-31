@@ -8,10 +8,14 @@
 
 **I build ML systems from scratch, ship them end-to-end, and measure whether they actually work.**
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-samielakkad.github.io-660874?style=for-the-badge)](https://samielakkad.github.io)
+
 [![Location](https://img.shields.io/badge/Based_in-Shenzhen,_China-2E86AB)](#)
 [![Email](https://img.shields.io/badge/Email-sam25@mails.tsinghua.edu.cn-C8102E)](mailto:sam25@mails.tsinghua.edu.cn)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-samielakkad-0A66C2)](https://www.linkedin.com/in/samielakkad)
 [![Languages](https://img.shields.io/badge/Languages-5_spoken-A3BE8C)](#)
+
+🌐 **Full portfolio & case studies → [samielakkad.github.io](https://samielakkad.github.io)**
 
 </div>
 
