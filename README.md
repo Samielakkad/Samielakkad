@@ -58,7 +58,7 @@ Work built **for companies and institutions** — each links to the organisation
 
 ## 🗂️ Explore my work — by AI domain
 
-🤖 Computer Vision · 🧠 LLMs & Agents · 🗣️ NLP · 🧬 Optimization · 🎓 EdTech · ⚖️ LegalTech · 📦 Product
+🤖 Computer Vision · 🧠 LLMs & Agents · 🗣️ NLP · 🧬 Optimization · 🎓 EdTech · ⚖️ LegalTech · 📦 Product · 🧰 Developer Tools
 
 ---
 
@@ -88,6 +88,9 @@ Work built **for companies and institutions** — each links to the organisation
 ### 📦 AI + Product
 - **[jak-ma-case-study](https://github.com/Samielakkad/AI-Product-JakMa-Case-Study)** — production case study: verifier-gated retrieval shipped into a live marketplace.
 - **[pm-frameworks-darija](https://github.com/Samielakkad/AI-Product-Management-Frameworks)** — reusable PM frameworks for shipping LLM products in low-resource markets.
+
+### 🧰 Developer Tools
+- **[github-portfolio-audit](https://github.com/Samielakkad/github-portfolio-audit)** — dependency-free Python CLI and reusable GitHub Action for verifiable profile and repository quality audits; released as v0.1.0 with Python 3.10–3.13 CI and 26 tests.
 
 ## 🛠️ Tech
 
