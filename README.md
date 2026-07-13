@@ -74,12 +74,13 @@ Work built **for companies and institutions** — each links to the organisation
 - **[darija-tools](https://github.com/Samielakkad/darija-tools)** — dependency-free Python package for Moroccan Darija normalization and Arabizi transliteration; [v0.1.0](https://github.com/Samielakkad/darija-tools/releases/tag/v0.1.0).
 - **[jakma-darija-classifier](https://github.com/Samielakkad/AI-NLP-Darija-Classifier)** — production Darija (Moroccan Arabic) intent + city classifier, Hugging Face–ready.
 - **[darija-nlp-resources](https://github.com/Samielakkad/AI-NLP-Darija-Resources)** — curated corpora, papers & tools for low-resource Darija NLP.
+- **[darija-tools](https://github.com/Samielakkad/darija-tools)** — dependency-free normalization and Arabizi → Arabic transliteration with a curated, tested lexicon.
 
 ### 🧬 AI + Optimization
 - **[ADCMOplus](https://github.com/Samielakkad/AI-Optimization-ADCMOplus-NWPU)** — novel online-learning evolutionary algorithm with a proven regret bound; beat three SOTA baselines. *Graduation research @ NWPU 西北工业大学.*
 
 ### 🎓 AI + EdTech
-- **[Sovereign School OS](https://github.com/Samielakkad/AI-EdTech-Sovereign-School-OS)** — AI-native K-12 platform, 50+ React/TS components, FERPA-compliant by construction. *AIID winner — NetDragon 网龙.*
+- **[Sovereign School OS](https://github.com/Samielakkad/AI-EdTech-Sovereign-School-OS)** — AI-native K-12 platform, 50+ React/TS components, with documented privacy boundaries. *AIID winner — NetDragon 网龙.*
 - **[hsk-master-ai](https://github.com/Samielakkad/AI-EdTech-HSK-Master)** — AI Mandarin-exam tutor built around the retake (writing diagnostics, prosody scoring).
 - **[tsinghua-aiid-2025-team-docs](https://github.com/Samielakkad/AI-EdTech-AIID-Team-Docs)** — interactive docs site; *Best Documentation Award, Tsinghua AIID Hackathon 2025.*
 
@@ -92,6 +93,9 @@ Work built **for companies and institutions** — each links to the organisation
 
 ### 🧰 Developer Tools
 - **[github-portfolio-audit](https://github.com/Samielakkad/github-portfolio-audit)** — Python CLI and reusable GitHub Action for verifiable profile and repository quality audits; v0.1.1 adds hardened evidence validation and end-to-end Action CI, with 75 tests across Python 3.10–3.13.
+
+### 🌍 Open-source contributions
+- **[renovatebot/github-action#1057](https://github.com/renovatebot/github-action/pull/1057)** — merged documentation fix replacing deprecated cache-action references with the official actions.
 
 ## 🛠️ Tech
 
