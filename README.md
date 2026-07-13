@@ -90,7 +90,7 @@ Work built **for companies and institutions** — each links to the organisation
 - **[pm-frameworks-darija](https://github.com/Samielakkad/AI-Product-Management-Frameworks)** — reusable PM frameworks for shipping LLM products in low-resource markets.
 
 ### 🧰 Developer Tools
-- **[github-portfolio-audit](https://github.com/Samielakkad/github-portfolio-audit)** — dependency-free Python CLI and reusable GitHub Action for verifiable profile and repository quality audits; released as v0.1.0 with Python 3.10–3.13 CI and 26 tests.
+- **[github-portfolio-audit](https://github.com/Samielakkad/github-portfolio-audit)** — Python CLI and reusable GitHub Action for verifiable profile and repository quality audits; v0.1.1 adds hardened evidence validation and end-to-end Action CI, with 75 tests across Python 3.10–3.13.
 
 ## 🛠️ Tech
 
