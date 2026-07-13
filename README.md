@@ -71,6 +71,7 @@ Work built **for companies and institutions** — each links to the organisation
 - **[ernie-evaluation-notes](https://github.com/Samielakkad/AI-LLM-Evaluation-Baidu-ERNIE)** — 5-dimension LLM evaluation rubric. *Baidu 百度 ERNIE Mentor Program.*
 
 ### 🗣️ AI + NLP
+- **[darija-tools](https://github.com/Samielakkad/darija-tools)** — dependency-free Python package for Moroccan Darija normalization and Arabizi transliteration; [v0.1.0](https://github.com/Samielakkad/darija-tools/releases/tag/v0.1.0).
 - **[jakma-darija-classifier](https://github.com/Samielakkad/AI-NLP-Darija-Classifier)** — production Darija (Moroccan Arabic) intent + city classifier, Hugging Face–ready.
 - **[darija-nlp-resources](https://github.com/Samielakkad/AI-NLP-Darija-Resources)** — curated corpora, papers & tools for low-resource Darija NLP.
 
