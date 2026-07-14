@@ -9,6 +9,7 @@
 **I build ML systems from scratch, ship them end-to-end, and measure whether they actually work.**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-samielakkad.github.io-660874?style=for-the-badge)](https://samielakkad.github.io)
+[![darija-tools](https://img.shields.io/badge/darija--tools-Moroccan_Darija_NLP-E85D04?style=for-the-badge)](https://github.com/Samielakkad/darija-tools)
 
 [![Location](https://img.shields.io/badge/Based_in-Shenzhen,_China-2E86AB)](#)
 [![Email](https://img.shields.io/badge/Email-sam25@mails.tsinghua.edu.cn-C8102E)](mailto:sam25@mails.tsinghua.edu.cn)
@@ -74,7 +75,6 @@ Work built **for companies and institutions** — each links to the organisation
 - **[darija-tools](https://github.com/Samielakkad/darija-tools)** — dependency-free Python package for Moroccan Darija normalization and Arabizi transliteration; [v0.1.0](https://github.com/Samielakkad/darija-tools/releases/tag/v0.1.0).
 - **[jakma-darija-classifier](https://github.com/Samielakkad/AI-NLP-Darija-Classifier)** — production Darija (Moroccan Arabic) intent + city classifier, Hugging Face–ready.
 - **[darija-nlp-resources](https://github.com/Samielakkad/AI-NLP-Darija-Resources)** — curated corpora, papers & tools for low-resource Darija NLP.
-- **[darija-tools](https://github.com/Samielakkad/darija-tools)** — dependency-free normalization and Arabizi → Arabic transliteration with a curated, tested lexicon.
 
 ### 🧬 AI + Optimization
 - **[ADCMOplus](https://github.com/Samielakkad/AI-Optimization-ADCMOplus-NWPU)** — novel online-learning evolutionary algorithm with a proven regret bound; beat three SOTA baselines. *Graduation research @ NWPU 西北工业大学.*
