@@ -20,6 +20,21 @@ These days, most of my time goes into [jak.ma](https://jak.ma), a service market
 - [Darija agriculture demo](https://github.com/Samielakkad/darija-agri-demo) — a Gradio crop-identification demo with Darija responses and refusal gating.
 - [JakMa Engine](https://github.com/Samielakkad/AI-LLM-Agents-JakMa-Engine) — public classification, grounded-retrieval, and bounded tool-calling code from jak.ma.
 - [YOLOv8 in PyTorch](https://github.com/Samielakkad/AI-Computer-Vision-YOLOv8-Neusoft) — an object-detection implementation developed during an autonomous-driving perception project at Neusoft.
+- [ADCMOplus](https://github.com/Samielakkad/AI-Optimization-ADCMOplus-NWPU) — undergraduate research on online learning for dynamic constrained multi-objective optimization, with public theory notes and Python demos.
+
+## Four axes
+
+These are the four threads connecting the projects. An `x` marks a substantial part of the work, not a minor feature.
+
+| Project | Darija & Morocco | Product systems | Evaluation & reliability | ML research |
+| --- | :---: | :---: | :---: | :---: |
+| [darija-tools](https://github.com/Samielakkad/darija-tools) | x |  | x |  |
+| [Sovereign School OS](https://github.com/Samielakkad/AI-EdTech-Sovereign-School-OS) |  | x |  |  |
+| [Darija agriculture demo](https://github.com/Samielakkad/darija-agri-demo) | x |  | x | x |
+| [JakMa evaluation suite](https://github.com/Samielakkad/AI-LLM-Evaluation-JakMa) | x |  | x |  |
+| [JakMa Engine](https://github.com/Samielakkad/AI-LLM-Agents-JakMa-Engine) | x | x | x |  |
+| [YOLOv8 in PyTorch](https://github.com/Samielakkad/AI-Computer-Vision-YOLOv8-Neusoft) |  |  |  | x |
+| [ADCMOplus](https://github.com/Samielakkad/AI-Optimization-ADCMOplus-NWPU) |  |  |  | x |
 
 ## Background
 
