@@ -14,11 +14,12 @@ These days, most of my time goes into [jak.ma](https://jak.ma), a service market
 
 ## Selected work
 
-- [darija-tools](https://github.com/Samielakkad/darija-tools) — a dependency-free Python library for Moroccan Darija normalization and Arabizi transliteration.
+- [darija-tools](https://github.com/Samielakkad/darija-tools) — a dependency-free Python library for Darija normalization and bidirectional Arabizi transliteration.
 - [JakMa evaluation suite](https://github.com/Samielakkad/AI-LLM-Evaluation-JakMa) — tests and scoring tools for a grounded LLM retrieval system.
 - [Sovereign School OS](https://github.com/Samielakkad/AI-EdTech-Sovereign-School-OS) — a runnable React and TypeScript prototype with student, teacher, and administration views.
+- [Darija agriculture demo](https://github.com/Samielakkad/darija-agri-demo) — a Gradio crop-identification demo with Darija responses and refusal gating.
+- [JakMa Engine](https://github.com/Samielakkad/AI-LLM-Agents-JakMa-Engine) — public classification, grounded-retrieval, and bounded tool-calling code from jak.ma.
 - [YOLOv8 in PyTorch](https://github.com/Samielakkad/AI-Computer-Vision-YOLOv8-Neusoft) — an object-detection implementation developed during an autonomous-driving perception project at Neusoft.
-- [ADCMOplus](https://github.com/Samielakkad/AI-Optimization-ADCMOplus-NWPU) — my graduation research on dynamic constrained optimization at NWPU.
 
 ## Background
 
