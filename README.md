@@ -23,7 +23,7 @@ These days, most of my time goes into [jak.ma](https://jak.ma), a service market
 
 ## Background
 
-- MSc in Artificial Intelligence at Tsinghua SIGS
+- MSc in Artificial Intelligence at Tsinghua University
 - Computer science and AI training at Northwestern Polytechnical University
 - Mostly working in Python, TypeScript, PyTorch, React, and evaluation tooling
 - Working across Morocco and China, with a particular interest in low-resource language technology
